@@ -4,6 +4,7 @@ This reference project shows how to implement a (Netflix-inspired) movie app wit
 
 ![Movie app preview](media/app-screenshots.png)
 
+
 The project uses the [TMDB API](https://www.themoviedb.org/documentation/api) to fetch a list of movies, and includes features such as pagination and local storage.
 
 ### Running the project
